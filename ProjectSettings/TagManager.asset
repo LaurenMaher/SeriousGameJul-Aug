@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cube
+  - Insul2
+  - sill
+  - Insulation
+  - Main2
+  - Blocks
+  - Frame
+  - Food
+  - ISSUE_GAPS
+  - ISSUE_MOULD
+  - ISSUE_INSULATION
+  - SittingRoom
+  - Button
+  - GrannyTag
+  - BuilderHelp1
+  - ISSUE_CAVITY
+  - UpstairsWall
+  - PlayGame
+  - GameOver
+  - Finished
+  - Finished2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
