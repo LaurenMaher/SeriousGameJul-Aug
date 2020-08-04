@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: b1ab00beb368b574cb3366eae88f4142
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body002
+    100002: //RootNode
+    100004: E003CASC001
+    100006: E003CORR001
+    100008: E003GANC001
+    100010: E003PLBL001
+    100012: Line001
+    100014: Object007
+    100016: Object008
+    100018: Pattern2D_3027
+    100020: Pattern2D_75291
+    100022: Pattern2D_75315
+    100024: Plane019
+    100026: police_obj_shape001
+    400000: body002
+    400002: //RootNode
+    400004: E003CASC001
+    400006: E003CORR001
+    400008: E003GANC001
+    400010: E003PLBL001
+    400012: Line001
+    400014: Object007
+    400016: Object008
+    400018: Pattern2D_3027
+    400020: Pattern2D_75291
+    400022: Pattern2D_75315
+    400024: Plane019
+    400026: police_obj_shape001
+    2100000: wire_143224087
+    2100002: wire_224086086
+    2100004: wire_224198087
+    2100006: wire_177028149
+    2100008: wire_166229229
+    2100010: wire_134006006
+    2100012: wire_229166215
+    2100014: Material2899
+    2100016: wire_027177148
+    2100018: wire_028089177
+    2300000: body002
+    2300002: E003CASC001
+    2300004: E003CORR001
+    2300006: E003GANC001
+    2300008: E003PLBL001
+    2300010: Line001
+    2300012: Object007
+    2300014: Object008
+    2300016: Pattern2D_3027
+    2300018: Pattern2D_75291
+    2300020: Pattern2D_75315
+    2300022: Plane019
+    2300024: police_obj_shape001
+    3300000: body002
+    3300002: E003CASC001
+    3300004: E003CORR001
+    3300006: E003GANC001
+    3300008: E003PLBL001
+    3300010: Line001
+    3300012: Object007
+    3300014: Object008
+    3300016: Pattern2D_3027
+    3300018: Pattern2D_75291
+    3300020: Pattern2D_75315
+    3300022: Plane019
+    3300024: police_obj_shape001
+    4300000: body002
+    4300002: E003CASC001
+    4300004: E003CORR001
+    4300006: E003GANC001
+    4300008: E003PLBL001
+    4300010: Line001
+    4300012: Object007
+    4300014: Object008
+    4300016: Pattern2D_3027
+    4300018: Pattern2D_75291
+    4300020: Pattern2D_75315
+    4300022: Plane019
+    4300024: police_obj_shape001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

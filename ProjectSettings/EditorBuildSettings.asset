@@ -15,33 +15,81 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu/MainMenu.unity
     guid: 3130156d24a71e84289ebf064f286348
   - enabled: 1
-    path: Assets/Scenes/Levels_Man/Opening.unity
-    guid: b8f97b4edec552b49954b7b8712a7923
-  - enabled: 1
-    path: Assets/Scenes/Levels_Man/Level1Outside_.unity
-    guid: 1a6578603248acf4ebf358935e07615d
-  - enabled: 1
     path: Assets/Scenes/MainMenu/Instructions.unity
     guid: 59bfaa173f85a584e94933f6ee0e4bc1
   - enabled: 1
-    path: Assets/Scenes/Levels_Man/Level2Sittingroom.unity
-    guid: aba3da31024548a4885a442b8f6eab4d
+    path: Assets/Scenes/Levels_Man/Opening.unity
+    guid: b8f97b4edec552b49954b7b8712a7923
   - enabled: 1
-    path: Assets/Scenes/Levels_Man/Level3Cavity.unity
-    guid: 3beefd696fb5f0c4a997e0750c2ad71e
+    path: Assets/Scenes/BuilderCharacterGame/Level1Outside_ newTest.unity
+    guid: cb6fee875427ba444b300caef04af4b9
   - enabled: 1
-    path: Assets/Scenes/Levels_Man/Level3Cavity 1.unity
-    guid: d051ede4854e1a244a7403ccab6f05ba
+    path: Assets/Scenes/BuilderCharacterGame/Level2Sittingroom_LM.unity
+    guid: 9c8139d061c7b614b8ff87ee752a06c1
   - enabled: 1
-    path: Assets/Scenes/Levels_Man/Level4Kitchen.unity
-    guid: e858e44cf8709214e9f9392304131fac
+    path: Assets/Scenes/BuilderCharacterGame/Level3Cavity1_newTest.unity
+    guid: a77c2d9ac09b4b94daa5a1945060003e
   - enabled: 1
-    path: Assets/Scenes/Levels_Man/Level5_UPStairs.unity
-    guid: 36fa2544baef21b41b4104030dece26f
+    path: Assets/Scenes/BuilderCharacterGame/Level3Cavity2_newTest.unity
+    guid: c6649c556cf78fb40a27a93b1e03a77d
+  - enabled: 1
+    path: Assets/Scenes/BuilderCharacterGame/Level4Kitchen_newTest.unity
+    guid: 49902467bb0498a44aab47587804bac8
+  - enabled: 1
+    path: Assets/Scenes/BuilderCharacterGame/Level5_UPStairs_newTest.unity
+    guid: 7742ae158429dc344ba969bbeba0b307
   - enabled: 1
     path: Assets/Scenes/Levels_Man/GameOver.unity
     guid: b64ecc774ed454541a4d8cb3dc117cb2
   - enabled: 0
+    path: Assets/Scenes/Levels_Man/Level1Outside_.unity
+    guid: 1a6578603248acf4ebf358935e07615d
+  - enabled: 0
+    path: Assets/Scenes/Levels_Man/Level2Sittingroom.unity
+    guid: aba3da31024548a4885a442b8f6eab4d
+  - enabled: 0
+    path: Assets/Scenes/Levels_Man/Level3Cavity.unity
+    guid: 3beefd696fb5f0c4a997e0750c2ad71e
+  - enabled: 0
+    path: Assets/Scenes/Levels_Man/Level3Cavity 1.unity
+    guid: d051ede4854e1a244a7403ccab6f05ba
+  - enabled: 0
+    path: Assets/Scenes/Levels_Man/Level4Kitchen.unity
+    guid: e858e44cf8709214e9f9392304131fac
+  - enabled: 0
+    path: Assets/Scenes/Levels_Man/Level5_UPStairs.unity
+    guid: 36fa2544baef21b41b4104030dece26f
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/BuilderCharacterGame/Level2Sittingroom_newTest.unity
+    guid: bbe13b3f1468b6944a248299f88c24db
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
@@ -68,60 +116,15 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 1
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 1
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 1
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 1
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/Extra/LevelCavity.unity
-    guid: 35f00fbd9ca40d44195c74f2ff5cfa9a
-  - enabled: 1
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 1
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 1
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 1
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 1
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 1
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/Extra/Level5Upstairs.unity
-    guid: d907f9ef64fbd684d8a7376a37ab611e
-  - enabled: 0
-    path: Assets/Scenes/Extra/Level3_Good_EndGame.unity
-    guid: c427a21aa48941c4ebe6fa4f99f6f872
-  - enabled: 0
-    path: Assets/Scenes/Data/_Scenes/data_screenFINAL.unity
-    guid: af200086aab706c40bc98ada97b34c72
-  - enabled: 0
-    path: Assets/Scenes/Data/data_screen1.unity
-    guid: b1c5876d37538c24c99cd891209c9f5e
-  - enabled: 0
-    path: Assets/Scenes/Data/_Scenes/scene2.unity
-    guid: e96cc973b78d9462f88c827312aca586
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
