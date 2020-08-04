@@ -1,3 +1,5 @@
 Rory.fbx filter=lfs diff=lfs merge=lfs -text
 Ch23_nonPBR@T-Pose.fbx[[:space:]] filter=lfs diff=lfs merge=lfs -text
 DID009AA8D52900B2C90D49.fbx.psd filter=lfs diff=lfs merge=lfs -text
+Ch23_nonPBR@Walking[[:space:]](3).fbx filter=lfs diff=lfs merge=lfs -text
+Ch17_nonPBR.fbx filter=lfs diff=lfs merge=lfs -text
