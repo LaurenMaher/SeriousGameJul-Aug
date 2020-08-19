@@ -8,6 +8,6 @@ public class ChangeScene_Splash : MonoBehaviour
     void Start()
     
         {
-        UnityEngine.SceneManagement.SceneManager.LoadScene("MainMenu");
+        UnityEngine.SceneManagement.SceneManager.LoadScene("Main");
     }
 }
