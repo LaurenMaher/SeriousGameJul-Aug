@@ -4,3 +4,4 @@ DID009AA8D52900B2C90D49.fbx.psd filter=lfs diff=lfs merge=lfs -text
 Ch23_nonPBR@Walking[[:space:]](3).fbx filter=lfs diff=lfs merge=lfs -text
 Ch17_nonPBR.fbx filter=lfs diff=lfs merge=lfs -text
 Ch17_nonPBR@Standing[[:space:]]W_Briefcase[[:space:]]Idle.fbx filter=lfs diff=lfs merge=lfs -text
+Ch23_nonPBR@Talking[[:space:]]Phone[[:space:]]Pacing.fbx filter=lfs diff=lfs merge=lfs -text
