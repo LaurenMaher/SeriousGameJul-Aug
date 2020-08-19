@@ -538,8 +538,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.00012207031, y: -0.00012207031}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -5.424988, y: 3.7999878}
+  m_SizeDelta: {x: 192.45, y: 83.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1217216632
 MonoBehaviour:
@@ -553,7 +553,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.5019608}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -927,8 +927,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 180, y: 43}
-  m_SizeDelta: {x: 286.9, y: 234.4}
+  m_AnchoredPosition: {x: 299, y: 47}
+  m_SizeDelta: {x: 454.4, y: 444.71}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1790953830
 MonoBehaviour:
@@ -949,7 +949,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Texture: {fileID: 2800000, guid: c29e1b8419c74d44e9627d4f8cc0ba09, type: 3}
+  m_Texture: {fileID: 2800000, guid: 6c0aa77847fe81440aa71f2dd5b54698, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -995,8 +995,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -163, y: 7.4699965}
-  m_SizeDelta: {x: 326, y: 329.94}
+  m_AnchoredPosition: {x: -305, y: 4}
+  m_SizeDelta: {x: 576.1, y: 547.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1827389428
 MonoBehaviour:
@@ -1017,7 +1017,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Texture: {fileID: 2800000, guid: 2d57ac8f45ca833478bd05d8c4f396f6, type: 3}
+  m_Texture: {fileID: 2800000, guid: 4d999bf4eeeaa774dad1ffe8920d66bc, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -1105,8 +1105,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: 944, y: -115}
-  m_SizeDelta: {x: 79.65, y: 28.9}
+  m_AnchoredPosition: {x: 1061, y: -189}
+  m_SizeDelta: {x: 142.8, y: 51.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2132631247
 MonoBehaviour:
