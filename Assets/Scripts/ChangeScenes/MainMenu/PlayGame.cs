@@ -7,6 +7,6 @@ public class PlayGame : MonoBehaviour
 {
     void Start()
     {
-        UnityEngine.SceneManagement.SceneManager.LoadScene("Level3Cavity2_newTest"); 
+        UnityEngine.SceneManagement.SceneManager.LoadScene("Level1Outside_ newTest"); 
     }
 }

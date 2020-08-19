@@ -36,11 +36,11 @@ EditorBuildSettings:
     path: Assets/Scenes/BuilderCharacterGame/Level4Kitchen_newTest.unity
     guid: 49902467bb0498a44aab47587804bac8
   - enabled: 1
-    path: Assets/Scenes/BuilderCharacterGame/Level5_UPStairs_newTest.unity
-    guid: 7742ae158429dc344ba969bbeba0b307
-  - enabled: 1
     path: Assets/Scenes/BuilderCharacterGame/GameOver.unity
     guid: ad61af9535037174bbc600a5f9cd845c
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
