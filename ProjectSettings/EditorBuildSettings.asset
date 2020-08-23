@@ -6,11 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Data/_Scenes/scene1_Login.unity
+    path: Assets/Scenes/BuilderCharacterGame/scene1_Login.unity
     guid: 6e312380b7f414c00b6526b66827d550
-  - enabled: 1
-    path: Assets/Scenes/BuilderCharacterGame/Opening.unity
-    guid: 88764267123d2b143a9d493ccf7615f1
   - enabled: 1
     path: Assets/Scenes/MainMenu/SplashScreen.unity
     guid: a39cb076adeed23429abc1024d2fa93b
@@ -20,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu/Instructions.unity
     guid: 59bfaa173f85a584e94933f6ee0e4bc1
+  - enabled: 1
+    path: Assets/Scenes/BuilderCharacterGame/Opening.unity
+    guid: 88764267123d2b143a9d493ccf7615f1
   - enabled: 1
     path: Assets/Scenes/BuilderCharacterGame/Level1Outside_ newTest.unity
     guid: cb6fee875427ba444b300caef04af4b9

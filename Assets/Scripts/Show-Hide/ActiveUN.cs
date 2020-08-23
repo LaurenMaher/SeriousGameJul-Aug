@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ActiveUN : MonoBehaviour
 {
-
+    public AudioSource GoOutside;
     public GameObject Cube;
 
 
@@ -15,7 +15,7 @@ public class ActiveUN : MonoBehaviour
         if (Input.GetKey(KeyCode.E))
         {
             Cube.SetActive(false);
-
+            GoOutside.Play();
         }
 
         else if (Input.GetKey(KeyCode.R))
